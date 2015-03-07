@@ -14,4 +14,6 @@
        * [Checking for null values](ch2/checking_for_null_values.md)
        * [Generating hash codes](ch2/generating_hash_codes.md)
        * [Implementing CompareTo](ch2/implementing_compareto.md)
+* [Functional Programming with Guava](functional_programming_with_guava/README.md)
+   * [Using the Function interface](functional_programming_with_guava/using_the_function_interface.md)
 
