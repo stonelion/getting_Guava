@@ -1,4 +1,4 @@
-# Using the Function interf
+# Using the Function interface
 函数式编程强调使用函数来达到目的,而不是改变状态。这与命令式编程截然相反，这种方式依赖状态的改变，而且大部分的开发人员都熟悉这种方式。Guava中的`Function`接口，让我们可以导入一些函数式编程到我们的Java代码。
 
 `Function`接口只包含两个方法：

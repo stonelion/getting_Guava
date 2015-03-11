@@ -1,6 +1,6 @@
 # Checking for null values
 
->**新版本中`Objects.ToStringHelp`已经是Deprecated的了，使用`MoreObjects.firstNonNull(T first,T second)`替换。**
+>**新版本中`Objects.firstNonNull`已经是Deprecated的了，使用`MoreObjects.firstNonNull(T first,T second)`替换。**
 
 `firstNonNull`方法使用两个参数并且返回非空的那个参数。
 

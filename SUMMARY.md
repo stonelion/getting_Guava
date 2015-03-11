@@ -16,4 +16,5 @@
        * [Implementing CompareTo](ch2/implementing_compareto.md)
 * [Functional Programming with Guava](functional_programming_with_guava/README.md)
    * [Using the Function interface](functional_programming_with_guava/using_the_function_interface.md)
+       * [Guidelines for using the Function interface](functional_programming_with_guava/guidelines_for_using_the_function_interface.md)
 
