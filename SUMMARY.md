@@ -20,4 +20,11 @@
    * [Using the Functions class](functional_programming_with_guava/using_the_functions_class.md)
        * [Using the Functions.forMap method](functional_programming_with_guava/using_the_functionsformap_method.md)
        * [Using the Functions.compose method](functional_programming_with_guava/using_the_functionscompose_method.md)
+   * [Using the Predicate interface](functional_programming_with_guava/using_the_predicate_interface.md)
+       * [An example of the Predicate interface](functional_programming_with_guava/an_example_of_the_predicate_interface.md)
+   * [Using the Predicates class](functional_programming_with_guava/using_the_predicates_class.md)
+       * [Using the Predicates.and method](functional_programming_with_guava/using_the_predicatesand_method.md)
+       * [Using the Predicates.or method](functional_programming_with_guava/using_the_predicatesor_method.md)
+       * [Using the Predicates.not method](functional_programming_with_guava/using_the_predicatesnot_method.md)
+       * [Using the Predicates.compose method](functional_programming_with_guava/using_the_predicatescompose_method.md)
 
