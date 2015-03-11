@@ -17,4 +17,7 @@
 * [Functional Programming with Guava](functional_programming_with_guava/README.md)
    * [Using the Function interface](functional_programming_with_guava/using_the_function_interface.md)
        * [Guidelines for using the Function interface](functional_programming_with_guava/guidelines_for_using_the_function_interface.md)
+   * [Using the Functions class](functional_programming_with_guava/using_the_functions_class.md)
+       * [Using the Functions.forMap method](functional_programming_with_guava/using_the_functionsformap_method.md)
+       * [Using the Functions.compose method](functional_programming_with_guava/using_the_functionscompose_method.md)
 
