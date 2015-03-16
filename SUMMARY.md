@@ -27,4 +27,9 @@
        * [Using the Predicates.or method](functional_programming_with_guava/using_the_predicatesor_method.md)
        * [Using the Predicates.not method](functional_programming_with_guava/using_the_predicatesnot_method.md)
        * [Using the Predicates.compose method](functional_programming_with_guava/using_the_predicatescompose_method.md)
+   * [Using the supplier interface](functional_programming_with_guava/using_the_supplier_interface.md)
+       * [An example of the Supplier interface](functional_programming_with_guava/using_the_suppliers_class.md)
+   * [Using the Suppliers class](functional_programming_with_guava/using_the_suppliers_class.md)
+       * [Using the Suppliers.memoize method](functional_programming_with_guava/using_the_suppliersmemoize_method.md)
+       * [Using the Suppliers.memoizeWithExpiration method](functional_programming_with_guava/using_the_suppliersmemoizewithexpiration_method.md)
 
