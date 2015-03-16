@@ -8,4 +8,4 @@
 - `Table`集合类型,是替代使用map的map场景有力的集合工具。
 - `Multimaps`，可以用超过一个的值关联到唯一的key上。
 - `FluentIterable`类,提供一系列处理`Iterable`实例有用的接口。
-- `Ordering`类，增强我们处理`Comparators`的能力。
+- `Ordering`类，增强我们处理`Comparators`的能力
