@@ -32,4 +32,5 @@
    * [Using the Suppliers class](functional_programming_with_guava/using_the_suppliers_class.md)
        * [Using the Suppliers.memoize method](functional_programming_with_guava/using_the_suppliersmemoize_method.md)
        * [Using the Suppliers.memoizeWithExpiration method](functional_programming_with_guava/using_the_suppliersmemoizewithexpiration_method.md)
+* [Working with Collections](working_with_collections/README.md)
 
