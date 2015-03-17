@@ -36,4 +36,6 @@
    * [The FluentIterable class](working_with_collections/the_fluentiterable_class.md)
        * [Using the FluentIterable.filter method](working_with_collections/using_the_fluentiterablefilter_method.md)
        * [Using the FluentIterable.transform method](working_with_collections/using_the_fluentiterabletransform_method.md)
+   * [Lists](working_with_collections/lists.md)
+   * [Sets](working_with_collections/sets.md)
 
