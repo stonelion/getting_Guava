@@ -33,4 +33,7 @@
        * [Using the Suppliers.memoize method](functional_programming_with_guava/using_the_suppliersmemoize_method.md)
        * [Using the Suppliers.memoizeWithExpiration method](functional_programming_with_guava/using_the_suppliersmemoizewithexpiration_method.md)
 * [Working with Collections](working_with_collections/README.md)
+   * [The FluentIterable class](working_with_collections/the_fluentiterable_class.md)
+       * [Using the FluentIterable.filter method](working_with_collections/using_the_fluentiterablefilter_method.md)
+       * [Using the FluentIterable.transform method](working_with_collections/using_the_fluentiterabletransform_method.md)
 
