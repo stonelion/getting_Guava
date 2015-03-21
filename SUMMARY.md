@@ -38,4 +38,9 @@
        * [Using the FluentIterable.transform method](working_with_collections/using_the_fluentiterabletransform_method.md)
    * [Lists](working_with_collections/lists.md)
    * [Sets](working_with_collections/sets.md)
+       * [Using the Sets.difference method](working_with_collections/using_the_setsdifference_method.md)
+       * [Using the Sets.symmetricDifference method](working_with_collections/using_the_setssymmetricdifference_method.md)
+       * [Using the Sets.intersection method](working_with_collections/using_the_setsintersection_method.md)
+       * [Using the Sets.union method](working_with_collections/using_the_setsunion_method.md)
+   * [Maps](working_with_collections/maps.md)
 
