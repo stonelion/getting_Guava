@@ -43,4 +43,8 @@
        * [Using the Sets.intersection method](working_with_collections/using_the_setsintersection_method.md)
        * [Using the Sets.union method](working_with_collections/using_the_setsunion_method.md)
    * [Maps](working_with_collections/maps.md)
+       * [Using the Maps.uniqueIndex method](working_with_collections/using_the_mapsuniqueindex_method.md)
+       * [Using the Maps.asMap method](working_with_collections/using_the_mapsasmap_method.md)
+       * [Transforming maps](working_with_collections/transforming_maps.md)
+   * [Multimaps](working_with_collections/multimaps.md)
 
