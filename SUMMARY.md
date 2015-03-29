@@ -47,4 +47,6 @@
        * [Using the Maps.asMap method](working_with_collections/using_the_mapsasmap_method.md)
        * [Transforming maps](working_with_collections/transforming_maps.md)
    * [Multimaps](working_with_collections/multimaps.md)
+       * [ArrayListMultimap](working_with_collections/arraylistmultimap.md)
+       * [HashMultimap](working_with_collections/hashmultimap.md)
 
