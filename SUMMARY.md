@@ -49,4 +49,7 @@
    * [Multimaps](working_with_collections/multimaps.md)
        * [ArrayListMultimap](working_with_collections/arraylistmultimap.md)
        * [HashMultimap](working_with_collections/hashmultimap.md)
+   * [BiMap](working_with_collections/bimap.md)
+       * [Using the BiMap.forcePut method](working_with_collections/using_the_bimapforceput_method.md)
+       * [Using the BiMap.inverse method](working_with_collections/using_the_bimapinverse_method.md)
 
