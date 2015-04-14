@@ -52,4 +52,7 @@
    * [BiMap](working_with_collections/bimap.md)
        * [Using the BiMap.forcePut method](working_with_collections/using_the_bimapforceput_method.md)
        * [Using the BiMap.inverse method](working_with_collections/using_the_bimapinverse_method.md)
+   * [Table](working_with_collections/table.md)
+       * [Table operations](working_with_collections/table_operations.md)
+       * [Table views](working_with_collections/table_views.md)
 
