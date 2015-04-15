@@ -55,4 +55,6 @@
    * [Table](working_with_collections/table.md)
        * [Table operations](working_with_collections/table_operations.md)
        * [Table views](working_with_collections/table_views.md)
+   * [Range](working_with_collections/range.md)
+       * [Ranges with arbitrary comparable objects](working_with_collections/ranges_with_arbitrary_comparable_objects.md)
 
