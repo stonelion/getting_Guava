@@ -57,4 +57,12 @@
        * [Table views](working_with_collections/table_views.md)
    * [Range](working_with_collections/range.md)
        * [Ranges with arbitrary comparable objects](working_with_collections/ranges_with_arbitrary_comparable_objects.md)
+   * [Immutable collections](working_with_collections/immutable_collections.md)
+       * [Creating immutable collection instances](working_with_collections/creating_immutable_collection_instances.md)
+   * [Ordering](working_with_collections/ordering.md)
+       * [Creating an Ordering instance](working_with_collections/creating_an_ordering_instance.md)
+       * [Reverse sorting](working_with_collections/reverse_sorting.md)
+       * [Accounting for null](working_with_collections/accounting_for_null.md)
+       * [Secondary sorting](working_with_collections/secondary_sorting.md)
+       * [Retrieving minimum and maximum values](working_with_collections/retrieving_minimum_and_maximum_values.md)
 
