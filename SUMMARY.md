@@ -65,4 +65,6 @@
        * [Accounting for null](working_with_collections/accounting_for_null.md)
        * [Secondary sorting](working_with_collections/secondary_sorting.md)
        * [Retrieving minimum and maximum values](working_with_collections/retrieving_minimum_and_maximum_values.md)
+* [Concurrency](concurrency/README.md)
+   * [Synchronizing threads](concurrency/synchronizing_threads.md)
 
