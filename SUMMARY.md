@@ -67,4 +67,5 @@
        * [Retrieving minimum and maximum values](working_with_collections/retrieving_minimum_and_maximum_values.md)
 * [Concurrency](concurrency/README.md)
    * [Synchronizing threads](concurrency/synchronizing_threads.md)
+   * [Monitor](concurrency/monitor.md)
 
