@@ -73,4 +73,5 @@
    * [Obtaining a ListenableFuture interface](concurrency/obtaining_a_listenablefuture_interface.md)
    * [FutureCallback](concurrency/futurecallback.md)
        * [Using the FutureCallback](concurrency/using_the_futurecallback.md)
+       * [SettableFuture](concurrency/settablefuture.md)
 
