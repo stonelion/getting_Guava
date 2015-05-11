@@ -1,0 +1,2 @@
+# Futures
+Futures是一个处理Future实例的工具类。同样，有许多可用的方法存在，我们只关注涉及本章中的相关主题：AsyncFunctions和FutureFallbacks。我们已经见过了Futures类上的一些方法，例如Futures.addCallback用于附带FutureCallback实例，在ListenableFuture实例完成任务的时候调用。

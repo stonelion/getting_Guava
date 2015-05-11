@@ -73,5 +73,11 @@
    * [Obtaining a ListenableFuture interface](concurrency/obtaining_a_listenablefuture_interface.md)
    * [FutureCallback](concurrency/futurecallback.md)
        * [Using the FutureCallback](concurrency/using_the_futurecallback.md)
-       * [SettableFuture](concurrency/settablefuture.md)
+   * [SettableFuture](concurrency/settablefuture.md)
+   * [AsyncFunction](concurrency/asyncfunction.md)
+   * [FutureFallback](concurrency/futurefallback.md)
+   * [Futures](concurrency/futures.md)
+       * [Asynchronous Transforms](concurrency/asynchronous_transforms.md)
+       * [Applying FutureFallbacks](concurrency/applying_futurefallbacks.md)
+   * [RateLimiter](concurrency/ratelimiter.md)
 
