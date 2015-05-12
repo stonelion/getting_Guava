@@ -80,4 +80,12 @@
        * [Asynchronous Transforms](concurrency/asynchronous_transforms.md)
        * [Applying FutureFallbacks](concurrency/applying_futurefallbacks.md)
    * [RateLimiter](concurrency/ratelimiter.md)
+* [Guava Cache](guava_cache/README.md)
+   * [MapMaker](guava_cache/mapmaker.md)
+   * [Guava caches](guava_cache/guava_caches.md)
+       * [Cache](guava_cache/cache.md)
+       * [LoadingCache](guava_cache/loadingcache.md)
+           * [Loading values](guava_cache/loading_values.md)
+           * [Refreshing values in the cache](guava_cache/refreshing_values_in_the_cache.md)
+   * [CacheBuilder](guava_cache/cachebuilder.md)
 
