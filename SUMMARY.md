@@ -88,4 +88,5 @@
            * [Loading values](guava_cache/loading_values.md)
            * [Refreshing values in the cache](guava_cache/refreshing_values_in_the_cache.md)
    * [CacheBuilder](guava_cache/cachebuilder.md)
+   * [CacheBuilderSpec](guava_cache/cachebuilderspec.md)
 
