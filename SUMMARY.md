@@ -97,4 +97,11 @@
        * [Posting the events](eventbus/posting_the_events.md)
        * [Defining handler methods](eventbus/defining_handler_methods.md)
        * [Concurrency](eventbus/concurrency.md)
+   * [Subscribe – An example](eventbus/subscribe__an_example.md)
+   * [Event Publishing – An example](eventbus/event_publishing__an_example.md)
+   * [Finer-grained subscribing](eventbus/finer-grained_subscribing.md)
+   * [Unsubscribing to events](eventbus/unsubscribing_to_events.md)
+   * [AsyncEventBus](eventbus/asynceventbus.md)
+   * [DeadEvents](eventbus/deadevents.md)
+   * [Dependency injection](eventbus/dependency_injection.md)
 
