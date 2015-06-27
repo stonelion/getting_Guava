@@ -1,21 +1,14 @@
 # CacheLoader
-CacheLoaders是一个抽象类，因为load方法是抽象的。 There is also a loadAll method that takes an
-Iterable object, but loadAll delegates this Iterable object to load for each item
-contained in the Iterable object (unless we've overridden the loadAll method).
-There are two static methods on the CacheLoader class that will allow us to leverage
-some of the constructs we have learned about from Chapter 3, Functional Programming
-with Guava. The first method is shown as follows:
-CacheLoader<Key,value> cacheLoader =
-CacheLoader.from(Function<Key,Value> func);
-Here we can pass in a Function object that will transform an input object into
-an output object. When used as an argument of the CacheLoader.from method, we
-get a CacheLoader instance where the keys are the input objects to Function and the
-resulting output objects are the values. Similarly, we also have the second method
-shown as follows:
-CacheLoader<Object,Value> cacheLoader =
-CacheLoader.from(Supplier<Value> supplier);
-In this preceding example, we are creating a CacheLoader instance from a Supplier
-instance. It's worth noting here that any key passed to CacheLoader will result in the
-Supplier.get() method being called. There is an implied assumption with both of
-these methods that we are re-using existing Function or Supplier instances and not
-creating new objects simply for the sake of creating CacheLoader.
+CacheLoaders是一个抽象类，因为load方法是抽象的。还有一个loadAll方法，这个方法需要Iterable对象，代理这个对象载入Iterable上包含的所有对象。
+CacheLoader类上还有两个静态方法，可以使用到函数式编程的便利。
+第一个方法是：
+```
+CacheLoader<Key,value> cacheLoader = CacheLoader.from(Function<Key,Value> func);
+```
+我们可以传进Function对象，转换输入对象达到另一个输出对象。CacheLoader实例会使用Function的输入对象作为key，输出结果作为值。
+
+同样，我们还有另外一个方法。
+```
+CacheLoader<Object,Value> cacheLoader = CacheLoader.from(Supplier<Value> supplier);
+```
+上面的例子，我们使用Supplier实例建立CacheLoader。任何传递key给CacheLoader，都会调用Supplier.get()。还有一个规则假设，这些方法都会重用存在的Function或Supplier实例，并不会为建立CacheLoader构建新的对象。
