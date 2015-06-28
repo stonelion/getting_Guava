@@ -1,0 +1,2 @@
+# ByteStreams and CharStreams
+ByteStreams是一个用于处理InputStream和OutputStream实例的工具类，CharStreams则是用于处理Reader和Writer实例的工具类。ByteStreams和CharStreams类上提供的一些方法在Files类上也有提供。
