@@ -108,4 +108,10 @@
    * [AsyncEventBus](eventbus/asynceventbus.md)
    * [DeadEvents](eventbus/deadevents.md)
    * [Dependency injection](eventbus/dependency_injection.md)
+* [Working with Files](working_with_files/README.md)
+   * [Copying a file](working_with_files/copying_a_file)
+   * [Moving/renaming a File](working_with_files/movingrenaming_a_file.md)
+   * [Working with files as strings](working_with_files/working_with_files_as_strings.md)
+   * [Hashing a file](working_with_files/hashing_a_file.md)
+   * [Writing to files](working_with_files/writing_to_files.md)
 
